@@ -7,7 +7,7 @@ import Nav from "./components/Nav";
 import OurWork from "./pages/OurWork";
 import ContactUs from "./pages/ContactUs";
 //Router
-import { Route, Routes, Router } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
