@@ -39,6 +39,7 @@ const GlobalStyle = createGlobalStyle`
     }
     h3{
         color:white;
+        
     }
     p{
         padding: 3rem 0rem;
